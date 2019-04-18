@@ -1,2 +1,3 @@
 # My-Website
-website assignment
+In class website assignment - 
+  Basic html practice during session. Learning the basics. 
